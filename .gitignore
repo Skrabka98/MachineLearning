@@ -2,3 +2,5 @@
 ML_ObjectDetection/ML_ObjectDetection/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libLdaNative.dylib
 ML_ObjectDetection/ML_ObjectDetection/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libonnxruntime.dylib
 ML_ObjectDetection/ML_ObjectDetection/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libonnxruntime.dylib.dSYM/Contents/Resources/DWARF/libonnxruntime.dylib
+ML_ObjectDetection/ML_ObjectDetection/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.pdb
+ML_ObjectDetection/ML_ObjectDetection/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.pdb
